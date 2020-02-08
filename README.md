@@ -2,4 +2,4 @@
 
 App that tracks sleep
 
-Click [here](https://tommy-mills.github.io/WeSearch/swenapppages/login.html) to get started!
+Click [here](https://henry1337.github.io/Bedtime/swenapppages/login.html) to get started!
